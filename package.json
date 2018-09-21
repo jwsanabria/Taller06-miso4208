@@ -26,9 +26,10 @@
     "resemblejs": "^2.10.0",
     "shelljs": "^0.8.1",
     "uuid": "^3.2.1",
-    "xvfb": "^0.2.3"
+    "xvfb": "^0.2.3",
+    "cypress": "^2.1.0"
   },
   "devDependencies": {
-    "cypress": "^2.1.0"
+    
   }
 }
