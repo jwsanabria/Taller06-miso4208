@@ -1,0 +1,30 @@
+{
+  "name": "taller6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compare.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwsanabria/Taller06-miso4208.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwsanabria/Taller06-miso4208/issues"
+  },
+  "homepage": "https://github.com/jwsanabria/Taller06-miso4208#readme",
+  "dependencies": {
+    "mz": "^2.7.0",
+    "requirejs": "^2.3.5",
+    "resemblejs": "^2.10.0",
+    "shelljs": "^0.8.1",
+    "uuid": "^3.2.1",
+    "xvfb": "^0.2.3"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
