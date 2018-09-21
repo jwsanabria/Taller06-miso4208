@@ -2,7 +2,7 @@
 // =============================================================================
 
 var mongoose   = require('mongoose');
-mongoose.connect(process.env.CONEXION_MONGO); 
+mongoose.connect(process.env.MONGODB_URI); 
 
 // call the packages we need
 var exec = require('child_process').exec, child;
