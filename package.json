@@ -31,7 +31,8 @@
     "uuid": "^3.2.1",
     "xvfb": "^0.2.3",
     "cypress": "^2.1.0",
-    "node-libpng":"^0.2.6"
+    "node-libpng":"^0.2.6",
+    "canvas-prebuilt": "^2.0.0-alpha.14"
   },
   "devDependencies": {
     
