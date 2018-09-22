@@ -30,7 +30,8 @@
     "shelljs": "^0.8.1",
     "uuid": "^3.2.1",
     "xvfb": "^0.2.3",
-    "cypress": "^2.1.0"
+    "cypress": "^2.1.0",
+    "node-libpng":"^0.2.6"
   },
   "devDependencies": {
     
