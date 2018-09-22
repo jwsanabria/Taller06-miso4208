@@ -26,7 +26,7 @@
     "mongoose": "^5.0.2",
     "mz": "^2.7.0",
     "requirejs": "^2.3.5",
-    "resemblejs": "^2.7.0",
+    "resemblejs": "^2.10.0",
     "shelljs": "^0.8.1",
     "uuid": "^3.2.1",
     "xvfb": "^0.2.3",
